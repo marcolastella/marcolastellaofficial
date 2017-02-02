@@ -45,7 +45,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/schermata-2017-02-03-alle-00-2000x786.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/16463687-10208158828475815-4561365493960753194-o-2000x2000.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -57,11 +57,11 @@
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false
           },
-          "title": "Marco<br>Lastella",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "title": "FOCUS<br>",
+          "text": "DEBUT EP - OUT SOON",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_styles": {
             ".mbr-section-title": {
